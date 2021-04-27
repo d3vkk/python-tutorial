@@ -1,6 +1,6 @@
 # Python Basics Tutorial
 
-![Dart Bird](https://github.com/d3vkk/python-basics-tutorial/blob/master/python.png)
+![Python](https://github.com/d3vkk/python-basics-tutorial/blob/master/python.png)
 
 Python Basics Tutorial from Derek Banas. With short, useful comments.
 
